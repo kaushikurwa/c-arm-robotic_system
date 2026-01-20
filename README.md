@@ -141,11 +141,3 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 ## Author
 
 kaushikurwa
-
-## Acknowledgments
-
-- ROS 2 community
-- Gazebo simulation platform
-
-
-
