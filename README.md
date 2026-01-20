@@ -37,7 +37,7 @@ The complete mechanical assembly was designed in **Fusion 360** and exported in
 **STEP format** for cross-platform compatibility.
 
 <p align="center">
-  <img src="images/c_arm_isometric.png" width="650">
+  <img src="images/1.png" width="650">
 </p>
 
 <p align="center">
