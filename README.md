@@ -51,8 +51,6 @@ The complete mechanical assembly was designed in **Fusion 360** and exported in
   <img src="images/5.png" width="900">
 </p>
 
-<p align="center"><i>Mechanical assembly of the 3-DOF C-Arm robot</i></p>
-
 ---
 
 ## Repository Structure
@@ -97,14 +95,14 @@ Motion control strategy, safety constraints, and scan execution flow
 
 ## Motion Demonstration
 
-The animation below shows coordinated linear positioning and rotational scanning
+The animation below shows coordinated linear positioning and rotational scanning assembly
 of the C-Arm structure.
 
 <p align="center">
   <img src="images/process.gif" width="900">
 </p>
 
-<p align="center"><i>Simulated scanning motion of the 3-DOF C-Arm robot</i></p>
+<p align="center"><i>Assembly of the 3-DOF C-Arm robot</i></p>
 
 ---
 
