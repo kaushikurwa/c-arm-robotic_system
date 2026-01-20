@@ -36,15 +36,15 @@ The complete mechanical assembly was designed in **Fusion 360** and exported in
 **STEP format** for cross-platform compatibility.
 
 <p align="center">
-  <img src="images/1.png" width="650">
+  <img src="images/1.png" width="900">
 </p>
 
 <p align="center">
-  <img src="images/2.png" width="650">
+  <img src="images/2.png" width="900">
 </p>
 
 <p align="center">
-  <img src="images/3.png" width="650">
+  <img src="images/3.png" width="900">
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@ The animation below shows coordinated linear positioning and rotational scanning
 of the C-Arm structure.
 
 <p align="center">
-  <img src="images/c_arm_motion.gif" width="650">
+  <img src="images/process.gif" width="900">
 </p>
 
 <p align="center"><i>Simulated scanning motion of the 3-DOF C-Arm robot</i></p>
