@@ -1,8 +1,8 @@
-# 3-DOF C-Arm Robotic System for Medical Scanning Applications
+# C-Arm Robotic System for Medical Scanning Applications (3-DOF)
 
 This repository presents the design, kinematic modeling, and motion planning of a
-**3-degree-of-freedom (3-DOF) C-Arm robotic system** developed for controlled scanning
-and imaging applications.
+**3-Degree-Of-Freedom (3-DOF) C-Arm robotic system** developed for controlled scanning
+and imaging in Medical Robotics applications.
 
 The system is designed to replicate the essential motion of medical C-Arm scanners
 using a mechanically simple and repeatable architecture.
@@ -11,22 +11,21 @@ using a mechanically simple and repeatable architecture.
 
 ## System Configuration
 
-The robot implements **three controlled degrees of freedom**:
+The robot implements **three controlled Degrees Of Freedom**:
 
 ### Degrees of Freedom
 1. **Prismatic Joint (Horizontal Translation)**  
    Linear motion along the base using a linear rail and lead screw mechanism to
-   position the vertical column.
+   Position the vertical column.
 
 2. **Prismatic Joint (Vertical Translation)**  
-   Vertical movement of the column to adjust scanning height and cover different
-   sections of the object.
+   Vertical movement of the column to adjust scanning height and cover different sections of the object.
 
 3. **Revolute Joint (C-Arm Rotation)**  
    Rotational motion of the C-Arm structure around the object using a
-   **pinion–spur gear mechanism**, enabling multi-angle scanning.
+   **pinion spur gear mechanism**, enabling multi-angle scanning.
 
-This **2P–1R configuration** provides wide workspace coverage while maintaining
+This **2P-1R configuration** provides wide workspace coverage while maintaining
 mechanical simplicity and repeatable motion.
 
 ---
@@ -41,7 +40,15 @@ The complete mechanical assembly was designed in **Fusion 360** and exported in
 </p>
 
 <p align="center">
-  <img src="images/c_arm_side.png" width="650">
+  <img src="images/2.png" width="650">
+</p>
+
+<p align="center">
+  <img src="images/3.png" width="650">
+</p>
+
+<p align="center">
+  <img src="images/5.png" width="900">
 </p>
 
 <p align="center"><i>Mechanical assembly of the 3-DOF C-Arm robot</i></p>
